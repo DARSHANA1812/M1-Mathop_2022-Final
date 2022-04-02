@@ -1,1 +1,4 @@
-# M1_new-Mathop__2022
+# Project Information
+
+* Add a brief discription about the project
+* Add the information about extra folders or files added
